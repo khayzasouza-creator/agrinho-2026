@@ -1,2 +1,2 @@
 # agrinho-2026
-projeto referente ao agrinho
+trabalho referente ao projeto agrinho
